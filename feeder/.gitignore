@@ -60,3 +60,6 @@ typings/
 
 voter.json
 dist/
+
+# custom terra js module with reduced timeout
+!node_modules_custom/@terra-money-custom/terra-reduced-timeout.js/dist
