@@ -30,3 +30,6 @@ __pycache__/
 
 # log
 yarn-error.log
+
+# custom terra js module with reduced timeout
+!feeder/node_modules/@terra-money-custom/terra-reduced-timeout.js

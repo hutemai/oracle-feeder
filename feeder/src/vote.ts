@@ -13,7 +13,7 @@ import {
   Fee,
   isTxError,
   LCDClientConfig,
-} from '@terra-money/terra.js'
+} from '@terra-money-custom/terra-reduced-timeout.js'
 import * as packageInfo from '../package.json'
 
 const ax = axios.create({
